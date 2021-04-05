@@ -1,11 +1,17 @@
-### Hi there 👋
-
-Yes it is me, Lempek
+## Hi there 👋
+ Yes it is me, Lempek
+ he/him
+# About me
+I'm 17 y/o programmer. My hobbies are transport (like trains, trams, buses etc.), logic gates and playing games. 
 
 # Social
 <div>
-  <a href="https://twitter.com/LEMPEKPL"><img src="https://img.shields.io/twitter/follow/LempekPL?color=%231DA1F2&label=TWITTER%20%40LEMPEKPL&style=for-the-badge"></a>
-  <a href="https://www.reddit.com/user/LempekPL"><img src="https://img.shields.io/reddit/user-karma/combined/LempekPL?label=U%2Flempekpl&style=for-the-badge"></a>
+   <a href="https://www.youtube.com/channel/UCL6-HSEiD28U5ddwL5l9fFA"><img src="https://img.shields.io/static/v1?label=youtube&message=Lempek&color=C4302B&style=for-the-badge&logo=youtube"></a>
+   <a href="https://www.twitch.tv/lempekpl"><img src="https://img.shields.io/static/v1?label=twitch&message=LempekPL&color=6441A5&style=for-the-badge&logo=twitch"></a>
+   <a href="https://discord.com/users/249253855613812736"><img src="https://img.shields.io/static/v1?label=discord&message=Lempek%237376&color=7289DA&style=for-the-badge&logo=discord"></a>
+   <a href="https://twitter.com/LEMPEKPL"><img src="https://img.shields.io/static/v1?label=twitter&message=%40LEMPEKPL&color=1DA1F2&style=for-the-badge&logo=twitter"></a>
+   <a href="https://www.reddit.com/user/LempekPL"><img src="https://img.shields.io/static/v1?label=reddit&message=u%2FLempek&color=FF5700&style=for-the-badge&logo=reddit"></a>
+   <a href="https://steamcommunity.com/id/LempekPL/"><img src="https://img.shields.io/static/v1?label=steam&message=Lempek&color=0B4A7C&style=for-the-badge&logo=steam"></a>
 </div>
 
 # Projects
@@ -20,5 +26,3 @@ Yes it is me, Lempek
   <img src="https://github-readme-stats.vercel.app/api?username=LempekPL&count_private=true&show_icons=true&theme=merko&hide_border=true" height="182">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LempekPL&layout=compact&theme=merko&langs_count=10&hide_border=true" height="182">
 </div>
-
-
