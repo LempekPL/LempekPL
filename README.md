@@ -4,7 +4,7 @@ Yes it is me, Lempek
 
 # Social
 <div>
-  <a href="https://twitter.com/LEMPEKPL"><img src="https://img.shields.io/twitter/follow/LempekPL?color=%231DA1F2&label=%40LEMPEKPL&style=for-the-badge"></a>
+  <a href="https://twitter.com/LEMPEKPL"><img src="https://img.shields.io/twitter/follow/LempekPL?color=%231DA1F2&label=TWITTER%20%40LEMPEKPL&style=for-the-badge"></a>
   <a href="https://www.reddit.com/user/LempekPL"><img src="https://img.shields.io/reddit/user-karma/combined/LempekPL?label=U%2Flempekpl&style=for-the-badge"></a>
 </div>
 
