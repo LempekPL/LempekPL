@@ -1,6 +1,7 @@
 ## Hi there 👋
  Yes it is me, Lempek
  he/him
+![](https://komarev.com/ghpvc/?username=LempekPL&color=69e621&style=flat-square)
 # About me
 I'm 17 y/o programmer. My hobbies are transport (like trains, trams, buses etc.), logic gates and playing games. My favourite animals are rabbits. Computer specs are on steam page.
 
