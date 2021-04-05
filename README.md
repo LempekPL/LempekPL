@@ -4,8 +4,8 @@ Yes it is me, Lempek
 
 # Social
 <div>
-  [![Twitter Follow](https://img.shields.io/twitter/follow/LempekPL?color=%231DA1F2&label=%40LEMPEKPL&style=for-the-badge)](https://twitter.com/LEMPEKPL)
-  [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/LempekPL?label=U%2Flempekpl&style=for-the-badge)](https://www.reddit.com/user/LempekPL)
+  <a href="https://twitter.com/LEMPEKPL"><img src="https://img.shields.io/twitter/follow/LempekPL?color=%231DA1F2&label=%40LEMPEKPL&style=for-the-badge"></a>
+  <a href="https://www.reddit.com/user/LempekPL"><img src="https://img.shields.io/reddit/user-karma/combined/LempekPL?label=U%2Flempekpl&style=for-the-badge"></a>
 </div>
 # Projects
 ### Main
