@@ -2,7 +2,7 @@
  Yes it is me, Lempek
  he/him
 # About me
-I'm 17 y/o programmer. My hobbies are transport (like trains, trams, buses etc.), logic gates and playing games. 
+I'm 17 y/o programmer. My hobbies are transport (like trains, trams, buses etc.), logic gates and playing games. My favourite animals are rabbits. Computer specs are on steam page.
 
 # Social
 <div>
