@@ -23,7 +23,7 @@
 
 # Projects
 ### Main
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=BunBun&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/BunBun)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=BunDev&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/BunBun)
 
 ### Side
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=GoTicTacToe&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/GoTicTacToe)
