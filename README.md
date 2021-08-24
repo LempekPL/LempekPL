@@ -6,7 +6,7 @@
 <div>
  <a href="mailto:lempekofficial@gmail.com"><img src="https://img.shields.io/static/v1?label=gmail&message=lempekofficial%40gmail.com&color=D14836&style=for-the-badge&logo=gmail" alt=""></a>
 <!--   <a href="https://twitter.com/LempekOfficial"><img src="https://img.shields.io/static/v1?label=twitter&message=%40LempekOfficial&color=1DA1F2&style=for-the-badge&logo=twitter" alt=""></a> -->
-  <a href="https://t.me/lempekpl"><img src="https://img.shields.io/static/v1?label=telegram&message=%40lempekpl&color=1DA1F2&style=for-the-badge&logo=telegram" alt=""></a>
+  <a href="https://t.me/lempekpl"><img src="https://img.shields.io/static/v1?label=telegram&message=%40lempekpl&color=00B2FF&style=for-the-badge&logo=telegram" alt=""></a>
 </div>
 
 # Projects
