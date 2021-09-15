@@ -6,7 +6,7 @@
 <div>
  <a href="mailto:lempekofficial@gmail.com"><img src="https://img.shields.io/static/v1?label=gmail&message=lempekofficial%40gmail.com&color=D14836&style=for-the-badge&logo=gmail" alt=""></a>
 <!--   <a href="https://twitter.com/LempekOfficial"><img src="https://img.shields.io/static/v1?label=twitter&message=%40LempekOfficial&color=1DA1F2&style=for-the-badge&logo=twitter" alt=""></a> -->
-  <a href="https://t.me/lempekpl"><img src="https://img.shields.io/static/v1?label=telegram&message=%40lempekpl&color=00B2FF&style=for-the-badge&logo=telegram" alt=""></a>
+<!--   <a href="https://t.me/lempekpl"><img src="https://img.shields.io/static/v1?label=telegram&message=%40lempekpl&color=00B2FF&style=for-the-badge&logo=telegram" alt=""></a> -->
 </div>
 
 # Projects
@@ -32,6 +32,7 @@
    <a href="https://twitter.com/LEMPEKPL"><img src="https://img.shields.io/static/v1?label=twitter&message=%40LEMPEKPL&color=1DA1F2&style=for-the-badge&logo=twitter"></a>
    <a href="https://www.reddit.com/user/LempekPL"><img src="https://img.shields.io/static/v1?label=reddit&message=u%2FLempek&color=FF5700&style=for-the-badge&logo=reddit"></a>
    <a href="https://steamcommunity.com/id/LempekPL/"><img src="https://img.shields.io/static/v1?label=steam&message=Lempek&color=0B4A7C&style=for-the-badge&logo=steam"></a>
+   <a href="https://t.me/lempekpl"><img src="https://img.shields.io/static/v1?label=telegram&message=%40lempekpl&color=00B2FF&style=for-the-badge&logo=telegram" alt=""></a>
    <!-- I wonder what is this :)
    <br>
    <a href="https://open.spotify.com/user/uzw52te8sueqlr05dfgxxbit9"><img src="https://img.shields.io/static/v1?label=Spotify&message=LempekPL&color=1DB954&style=for-the-badge&logo=spotify"></a>
