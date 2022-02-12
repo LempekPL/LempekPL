@@ -13,6 +13,7 @@
 # Projects
 ### Main
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=gairun&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/gairun)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=gight&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/gight)
 
 ### Side
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=GoRedirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/GoRedirect)
