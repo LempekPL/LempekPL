@@ -22,7 +22,7 @@
 # Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=LempekPL&count_private=true&show_icons=true&theme=merko&hide_border=true" height="182">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LempekPL&layout=compact&theme=merko&langs_count=10&hide_border=true" height="182">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LempekPL&layout=compact&theme=merko&langs_count=8&hide_border=true" height="182">
 </div>
 
 ### Social
