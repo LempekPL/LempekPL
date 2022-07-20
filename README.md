@@ -13,10 +13,11 @@
 # Projects
 ### Main
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=gairun&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/gairun)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=westerplatte-defenders&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/westerplatte-defenders)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=westerplatte-defenders&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/BigBruhCoders/westerplatte-defenders)
 
 ### Side
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=GoRedirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/GoRedirect)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=RustRedirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/RustRedirect)
 
 # Stats
 <div>
