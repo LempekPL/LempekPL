@@ -19,7 +19,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=GoRedirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/GoRedirect)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=rust-redirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/rust-redirect)
 
-### Complete (which means the product is ready and likely only minor changes will be made)
+### Complete (which means the "product" is ready and likely only minor changes will be made)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=westerplatte-defenders&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/BigBruhCoders/westerplatte-defenders)
 
