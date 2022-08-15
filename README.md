@@ -11,7 +11,7 @@ pronouns:
 <!--   <a href="https://t.me/lempekpl"><img src="https://img.shields.io/static/v1?label=telegram&message=%40lempekpl&color=00B2FF&style=for-the-badge&logo=telegram" alt=""></a> -->
 </div>
 
-### Skills
+## Skills
 <table>
     <tr>
         <td>Language</td>
