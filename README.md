@@ -14,13 +14,13 @@ pronouns:
 ## Skills
 <table>
     <tr>
-        <td>Language</td>
-        <td>years of experience</td>
-        <td>experience level*</td>
-        <td></td>
-        <td>Tools and other</td>
-        <td>years of usage</td>
-        <td>experience level*</td>
+        <th>Language</th>
+        <th>years of experience</th>
+        <th>experience level*</th>
+        <th></th>
+        <th>Tools and other</th>
+        <th>years of usage</th>
+        <th>experience level*</th>
     </tr>
     <tr>
         <td>
