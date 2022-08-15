@@ -11,6 +11,17 @@ pronouns:
 <!--   <a href="https://t.me/lempekpl"><img src="https://img.shields.io/static/v1?label=telegram&message=%40lempekpl&color=00B2FF&style=for-the-badge&logo=telegram" alt=""></a> -->
 </div>
 
+# Projects
+### Main
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=gairun&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/gairun)
+### Side
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=GoRedirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/GoRedirect)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=rust-redirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/rust-redirect)
+
+### Complete (which means the "product" is ready and likely only minor changes will be made)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=westerplatte-defenders&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/BigBruhCoders/westerplatte-defenders)
+
 ## Skills
 <table>
     <tr>
@@ -150,17 +161,6 @@ pronouns:
         <td>Started using nginx. Just felt like nginx was easier. It's not bad I think.</td>
     </tr>
 </table>
-
-# Projects
-### Main
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=gairun&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/gairun)
-### Side
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=GoRedirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/GoRedirect)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=rust-redirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/rust-redirect)
-
-### Complete (which means the "product" is ready and likely only minor changes will be made)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=westerplatte-defenders&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/BigBruhCoders/westerplatte-defenders)
 
 # Stats
 <div>
