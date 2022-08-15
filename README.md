@@ -1,7 +1,7 @@
 ## Hi there 👋
  Yes it is me, Lempek. <br>
 ![](https://komarev.com/ghpvc/?username=LempekPL&color=69e621&style=flat-square)\
-pronouns: 
+pronouns: https://en.pronouns.page/@Lempek
 
 ## Contact me
 <div>
