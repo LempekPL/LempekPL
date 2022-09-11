@@ -17,6 +17,7 @@ pronouns: https://en.pronouns.page/@Lempek
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=westerplatte-defenders&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/BigBruhCoders/westerplatte-defenders)
 ### Main
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=gairun&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/gairun)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=lempek-website&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/lempek-website)
 ### Side
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=GoRedirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/GoRedirect)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=rust-redirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/rust-redirect)
