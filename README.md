@@ -82,7 +82,7 @@ pronouns: https://en.pronouns.page/@Lempek
             <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="go"/></a>
         </td>
         <td>2+ year</td>
-        <td>proficient</td>
+        <td>advanced</td>
         <td></td>
         <td>
             <a href="https://rocket.rs/"><img src="https://skillicons.dev/icons?i=rocket" alt="rocket"/></a>
