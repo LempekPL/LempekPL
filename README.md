@@ -93,9 +93,8 @@ pronouns: https://en.pronouns.page/@Lempek
     <tr>
         <td>
             <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="py"/></a>
-            <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="php"/></a>
         </td>
-        <td>~1 year</td>
+        <td>1+ year</td>
         <td>familliar</td>
         <td></td>
         <td>
