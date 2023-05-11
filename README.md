@@ -22,6 +22,7 @@ pronouns: https://en.pronouns.page/@Lempek
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=GoRedirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/GoRedirect)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=rust-redirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/rust-redirect)
 
+<!--
 ## Skills
 <table>
     <tr>
@@ -129,7 +130,7 @@ pronouns: https://en.pronouns.page/@Lempek
 </table>
 
 *levels: beginner, familliar, proficient, intermediate, advanced, excellent, expert
-
+-->
 # Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=LempekPL&count_private=true&show_icons=true&theme=merko&hide_border=true" height="182">
