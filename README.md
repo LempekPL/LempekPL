@@ -39,13 +39,13 @@ pronouns: https://en.pronouns.page/@Lempek
             <a href="https://www.w3.org/Style/CSS/specs.en.html"><img src="https://skillicons.dev/icons?i=css" alt="css"/></a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview"><img src="https://skillicons.dev/icons?i=js" alt="js"/></a>
         </td>
-        <td>4+ years</td>
+        <td>5+ years</td>
         <td>advanced</td>
         <td></td>
         <td>
             <a href="https://nodejs.org/en/"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/></a>
         </td>
-        <td>3+ year</td>
+        <td>5+ year</td>
         <td>excellent</td>
     </tr>
     <tr>
@@ -59,14 +59,14 @@ pronouns: https://en.pronouns.page/@Lempek
             <a href="http://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="express"/></a>
             <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" alt="sass"/></a>
         </td>
-        <td>3+ year</td>
+        <td>4+ year</td>
         <td>advanced</td>
     </tr>
     <tr>
         <td>
             <a href="https://www.java.com/pl/"><img src="https://skillicons.dev/icons?i=java" alt="java"/></a>
         </td>
-        <td>1+ year</td>
+        <td>2+ year</td>
         <td>intermediate</td>
         <td></td>
         <td>
