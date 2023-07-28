@@ -15,6 +15,7 @@ pronouns: https://en.pronouns.page/@Lempek
 
 ### Complete (which means the "product" is ready and only minor changes will be made)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=westerplatte-defenders&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/BigBruhCoders/westerplatte-defenders)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=defenders-of-the-Polish-post-office&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office)
 ### Main
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=gairun&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/gairun) -->
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=lempek-website&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/lempek-website)
