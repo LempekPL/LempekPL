@@ -19,6 +19,7 @@ pronouns: https://en.pronouns.page/@Lempek
 ### Main
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=gairun&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/gairun) -->
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=lempek-website&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/lempek-website)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=lempek.dev&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/lempek.dev)
 ### Side
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=GoRedirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/GoRedirect) -->
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=rust-redirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/rust-redirect)
