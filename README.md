@@ -1,4 +1,4 @@
-## Hi there 👋
+![image](https://github.com/LempekPL/LempekPL/assets/37885098/82b37c3e-79c7-4a75-82ad-4fe032c86397)## Hi there 👋
  Yes it is me, Lempek. <br>
 ![](https://komarev.com/ghpvc/?username=LempekPL&color=69e621&style=flat-square)\
 pronouns: https://en.pronouns.page/@Lempek
@@ -136,7 +136,7 @@ pronouns: https://en.pronouns.page/@Lempek
 # Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=LempekPL&count_private=true&show_icons=true&theme=merko&hide_border=true" height="182">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LempekPL&layout=compact&theme=merko&langs_count=8&hide_border=true" height="182">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LempekPL&layout=compact&theme=merko&langs_count=8&hide_border=true&size_weight=0.75&count_weight=0.25&exclude_repo=BunDevDiscordBotJS,Walker" height="182">
 </div>
 
 ### Social
