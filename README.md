@@ -1,4 +1,4 @@
-![image](https://github.com/LempekPL/LempekPL/assets/37885098/82b37c3e-79c7-4a75-82ad-4fe032c86397)## Hi there 👋
+## Hi there 👋
  Yes it is me, Lempek. <br>
 ![](https://komarev.com/ghpvc/?username=LempekPL&color=69e621&style=flat-square)\
 pronouns: https://en.pronouns.page/@Lempek
