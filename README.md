@@ -1,8 +1,8 @@
 ## Hi there 👋
- Yes it is me, Lempek. <br>
-![](https://komarev.com/ghpvc/?username=LempekPL&color=69e621&style=flat-square)\
-pronouns: https://en.pronouns.page/@Lempek
-
+⎝⎞⎛⎠\
+&nbsp;ᖪ^ﻌ^ᖬっ\
+&nbsp;૮◟(")(")  \
+![](https://komarev.com/ghpvc/?username=LempekPL&color=69e621&style=flat-square)
 ## Contact me
 <div>
  <a href="mailto:piotr.m.lempkowski@gmail.com"><img src="https://img.shields.io/static/v1?label=gmail&message=piotr.m.lempkowski%40gmail.com&color=D14836&style=for-the-badge&logo=gmail" alt=""></a>
@@ -153,8 +153,5 @@ pronouns: https://en.pronouns.page/@Lempek
    <br>
    <a href="https://open.spotify.com/user/uzw52te8sueqlr05dfgxxbit9"><img src="https://img.shields.io/static/v1?label=Spotify&message=LempekPL&color=1DB954&style=for-the-badge&logo=spotify"></a>
    <a href="https://soundcloud.com/lempekpl"><img src="https://img.shields.io/static/v1?label=SoundCloud&message=Lempek&color=FF5000&style=for-the-badge&logo=soundcloud"></a>
-   <br>
-   <a href="https://www.furaffinity.net/user/lempek"><img src="https://img.shields.io/static/v1?label=FurAffinity&message=Lempek&color=orange&style=for-the-badge&logo=fur%20affinity"></a>
-   <a href="https://furmap.net/profile/005d1633"><img src="https://img.shields.io/static/v1?label=FurMap&message=Lempek&color=FF5757&style=for-the-badge&logo=furry%20network">     </a>
 -->
 </div>
