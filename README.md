@@ -2,7 +2,7 @@
 ⎝⎞⎛⎠\
 &nbsp;ᖪ^ﻌ^ᖬっ\
 &nbsp;૮◟(")(")  \
-![](https://komarev.com/ghpvc/?username=LempekPL&color=69e621&style=flat-square)
+![](https://komarev.com/ghpvc/?username=LempekPL&color=brightgreen&style=flat-square&label=Bunny%20Bench%20with%20THE%20NUMBER)
 ## Contact me
 <div>
  <a href="mailto:piotr.m.lempkowski@gmail.com"><img src="https://img.shields.io/static/v1?label=gmail&message=piotr.m.lempkowski%40gmail.com&color=D14836&style=for-the-badge&logo=gmail" alt=""></a>
@@ -11,18 +11,13 @@
 <!--   <a href="https://t.me/lempekpl"><img src="https://img.shields.io/static/v1?label=telegram&message=%40lempekpl&color=00B2FF&style=for-the-badge&logo=telegram" alt=""></a> -->
 </div>
 
-# Projects
-
-### Complete (which means the "product" is ready and only minor changes will be made)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=BunDevCore&repo=westerplatte-defenders&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/BunDevCore/westerplatte-defenders)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=BunDevCore&repo=defenders-of-the-Polish-post-office&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/BunDevCore/defenders-of-the-Polish-post-office)
-### Main
+<!-- # Projects
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=gairun&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/gairun) -->
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=lempek-website&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/lempek-website)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=lempek.dev&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/lempek.dev)
-### Side
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=blue&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/blue) -->
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=lempek-website&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/lempek-website) -->
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=lempek.dev&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/lempek.dev) -->
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=GoRedirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/GoRedirect) -->
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=rust-redirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/rust-redirect)
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=LempekPL&repo=rust-redirect&cache_seconds=7200&theme=merko&hide_border=true)](https://github.com/LempekPL/rust-redirect) -->
 
 <!--
 ## Skills
